@@ -1,0 +1,3 @@
+﻿  ConsoleApplication6.cpp
+C:\Users\alu804.LABORATORIOS\source\repos\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(8,6): warning C4101: 'tablero': variable local sin referencia
+  ConsoleApplication6.vcxproj -> C:\Users\alu804.LABORATORIOS\source\repos\ConsoleApplication6\Debug\ConsoleApplication6.exe
